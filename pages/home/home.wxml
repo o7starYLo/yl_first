@@ -1,0 +1,5 @@
+<!--pages/home/home.wxml-->
+<text class="g-red-text">pages/home/home.wxml</text>
+<view></view>
+<!--使用组件-->
+<my-test class="g-red-text" max="9"></my-test>
